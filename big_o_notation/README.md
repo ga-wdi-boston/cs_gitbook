@@ -6,17 +6,25 @@ Instead of saying that an algorithm takes a specific amount of measured time for
 
 We consider these changes asymptotically (as the input size goes to infinity), and drop coefficients and lower order terms as they don't help us better understand the changes in computation.
 
+## Time Complexity
+
 Since an algorithm's performance time may vary with different inputs of the same size, one commonly uses the worst-case time complexity of an algorithm, denoted as T(n), which is defined as the maximum amount of time taken on any input of size n.
 
 For example, if `T(n) = O(n)` we describe this as a linear time algorithm.
 
+### Common time complexities:
 
+| Name | T(n) | Example algorithms |
+| -- | -- | -- |
+| constant time | O(n) | Determining if an integer is even or odd; adding value to end of array |
+| linear time | O(n) | Finding smallest value in unsorted array |
+| logarithmic time | O(log n) | Binary search |
+| quadratic time | O(n^2) | Bubble sort; Insertion sort |
+| exponential time | 2^poly(n) | brute force search |
 
-## Time Complexity
+### Why?
 
-## Space Complexity
-
-
+We can use Big O and time complexity to better describe and compare algorithms and data structures.
 
 ### Resources
 
