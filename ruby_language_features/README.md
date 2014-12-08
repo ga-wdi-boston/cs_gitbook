@@ -1,5 +1,28 @@
 # Ruby Language Features
 
+## Regex (lab) - DONE
+
+## Duck Typing - Quick demo, not much to do there
+
+## Metaprogramming
+
+http://rubymonk.com/learning/books/2-metaprogramming-ruby/chapters/32-introduction-to-metaprogramming/lessons/75-being-meta
+
+method_missing
+
+## Lambdas, Proc, Bloc
+
+Read: Programming with Nothing
+
+## Navigating the Ruby sourcecode
+
+Read a story on Omniref
+
+
+
+
+
+
 - Scope: Lexical, dynamic
 - [dynamic typing](http://en.wikipedia.org/wiki/Dynamic_typing), [duck typing](http://en.wikipedia.org/wiki/Duck_typing)
 - Automatic Memory Management
@@ -25,6 +48,4 @@
 - [Lambdas / Anonymous Functions](http://en.wikipedia.org/wiki/Anonymous_function)
 - [Thread](http://en.wikipedia.org/wiki/Thread_(computer_science))
 - [Fibers](http://en.wikipedia.org/wiki/Fiber_(computer_science))
-- [Concurrency]()
-- [Parallel Programming]()
 - [Lazy Evalutation](http://en.wikipedia.org/wiki/Lazy_evaluation)

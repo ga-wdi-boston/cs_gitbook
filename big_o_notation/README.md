@@ -16,7 +16,7 @@ For example, if `T(n) = O(n)` we describe this as a linear time algorithm.
 
 | Name | T(n) | Example algorithms |
 | -- | -- | -- |
-| constant time | O(n) | Determining if an integer is even or odd; adding value to end of array |
+| constant time | O(n) | Determining if an integer is even or odd |
 | linear time | O(n) | Finding smallest value in unsorted array |
 | logarithmic time | O(log n) | Binary search |
 | quadratic time | O(n^2) | Bubble sort; Insertion sort |

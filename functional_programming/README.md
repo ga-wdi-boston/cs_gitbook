@@ -2,9 +2,8 @@
 
 - Side Effects
 - Pure Functions
-- Church numerals
-- Lambda Calculus
-- Tail Recursion (not in JS or Ruby, how to teach?)
+- Recursion
 - Memoization
-- Referential Transparency
 - Functional Programming in Ruby and JavaScript
+- Enumeration methods
+- Monads

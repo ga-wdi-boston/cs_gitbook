@@ -17,7 +17,7 @@ Imperative programming is focused on how a program operates. In it there are a s
 
 Overall, this is one of the most basic paradigms as it is one that most programmers are exposed to early-on.
 
-### Procederual Programming and more
+### Procedural Programming and more
 
 One form of imperative programming is known as *procedural programming*, in which the program is built from one or more *functions*. Heavily-procedural programming, with state changes restricted to functions, is known as *structured programming*. When these functions are separated into one or more independent modules, it is known as *modular programming*.
 
